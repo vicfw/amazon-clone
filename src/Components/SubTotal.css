@@ -1,0 +1,29 @@
+.subtotal {
+  display: flex;
+  flex: 3;
+}
+.subtotal-container {
+  border: 1px solid lightgray;
+  width: 100%;
+  height: 198px;
+  background-color: #eaeded;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+}
+.subtotal-price {
+  padding: 30px;
+  letter-spacing: 1px;
+}
+.subtotal-btn {
+  width: 150px;
+  background-color: #f0c14b;
+  color: white;
+  border-radius: 5px;
+  border: 0.5px solid #ccc;
+  outline: none;
+  height: 30px;
+  cursor: pointer;
+}

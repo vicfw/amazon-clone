@@ -1,0 +1,18 @@
+.home-container {
+  background-color: #eaeded;
+}
+
+.home-slider {
+  width: 80%;
+  margin: 0 auto;
+  z-index: -1;
+  margin-bottom: -310px;
+}
+.home-slider img {
+  width: 100%;
+  object-fit: contain;
+}
+
+.product-row {
+  display: flex;
+}

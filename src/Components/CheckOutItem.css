@@ -1,0 +1,35 @@
+.checkoutitem {
+  display: flex;
+  border-top: solid 1px lightgray;
+  padding: 10px;
+  align-items: center;
+}
+
+.checkoutitem-img {
+  width: 150px;
+  height: 150px;
+}
+.checkoutitem-img img {
+  width: 100%;
+  object-fit: contain;
+}
+
+.checkoutitem-box2 {
+  margin: 0 20px;
+}
+.checkoutitem-rating {
+  color: gold;
+}
+.checkoutitem-rating {
+  display: flex;
+}
+.checkoutitem-add {
+  width: 150px;
+  background-color: #f0c14b;
+  color: white;
+  border-radius: 5px;
+  border: 0.5px solid #ccc;
+  outline: none;
+  height: 30px;
+  cursor: pointer;
+}

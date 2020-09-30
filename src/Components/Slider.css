@@ -1,0 +1,8 @@
+.slick-prev:before,
+.slick-next:before {
+  font-size: 30px !important;
+}
+
+.home-slider-img {
+  mask-image: linear-gradient(360deg, transparent 1%, rgb(0, 0, 0, 1) 30%);
+}
