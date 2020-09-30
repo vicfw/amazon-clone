@@ -37,7 +37,7 @@ function Home() {
             id={6123213}
             title={"Echo (3rd Gen)- Smart speaker with Alexa- Charcoal"}
             image={
-              "https://images-na.ssl-images-amazon.com/images/I/61zQN-TujQL._AC_SL1000_.jpg"
+              "ht://images-na.ssl-images-amazon.com/images/I/61zQN-TujQL._AC_SL1000_.jpg"
             }
             price={200}
             rating={3}
