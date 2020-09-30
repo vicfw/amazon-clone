@@ -50,7 +50,7 @@ function Home() {
             image={
               "https://images-na.ssl-images-amazon.com/images/I/618mZBoZXNL._SL1500_.jpg"
             }
-            price={10}
+            price={1012}
             rating={5}
           />
           <Product
