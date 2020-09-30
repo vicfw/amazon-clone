@@ -40,7 +40,7 @@ function Home() {
               "https://images-na.ssl-images-amazon.com/images/I/61zQN-TujQL._AC_SL1000_.jpg"
             }
             price={200}
-            rating={1}
+            rating={3}
           />
         </div>
         <div className="product-row">
@@ -51,7 +51,7 @@ function Home() {
               "https://images-na.ssl-images-amazon.com/images/I/618mZBoZXNL._SL1500_.jpg"
             }
             price={10}
-            rating={3}
+            rating={5}
           />
           <Product
             id={5123123}
